@@ -1,0 +1,8 @@
+/dist
+/gulpfile.js
+/node_modules
+/package-lock.json
+/package.json
+/workspace.code-workspace
+*.code-workspace
+_!.txt
